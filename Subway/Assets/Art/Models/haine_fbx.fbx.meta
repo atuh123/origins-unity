@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a3a138dbbba8b4254bc7ba8deed64cdc
+timeCreated: 1450495843
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface15
+    100004: polySurface17
+    100006: polySurface3
+    100008: polySurface6
+    100010: polySurface7
+    100012: polySurface8
+    100014: polySurface9
+    100016: pPlane18
+    100018: pPlane19
+    100020: pPlane30
+    100022: pPlane31
+    100024: pPlane32
+    100026: pPlane33
+    100028: pPlane34
+    100030: pPlane35
+    100032: pPlane36
+    100034: pPlane41
+    100036: pPlane43
+    100038: pPlane45
+    100040: pSphere1
+    100042: pSphere2
+    400000: //RootNode
+    400002: polySurface15
+    400004: polySurface17
+    400006: polySurface3
+    400008: polySurface6
+    400010: polySurface7
+    400012: polySurface8
+    400014: polySurface9
+    400016: pPlane18
+    400018: pPlane19
+    400020: pPlane30
+    400022: pPlane31
+    400024: pPlane32
+    400026: pPlane33
+    400028: pPlane34
+    400030: pPlane35
+    400032: pPlane36
+    400034: pPlane41
+    400036: pPlane43
+    400038: pPlane45
+    400040: pSphere1
+    400042: pSphere2
+    2300000: polySurface15
+    2300002: polySurface17
+    2300004: polySurface3
+    2300006: polySurface6
+    2300008: polySurface7
+    2300010: polySurface8
+    2300012: polySurface9
+    2300014: pPlane30
+    2300016: pPlane31
+    2300018: pPlane32
+    2300020: pPlane33
+    2300022: pPlane34
+    2300024: pPlane35
+    2300026: pPlane36
+    2300028: pPlane41
+    2300030: pPlane43
+    2300032: pPlane45
+    2300034: pSphere1
+    2300036: pSphere2
+    3300000: polySurface15
+    3300002: polySurface17
+    3300004: polySurface3
+    3300006: polySurface6
+    3300008: polySurface7
+    3300010: polySurface8
+    3300012: polySurface9
+    3300014: pPlane30
+    3300016: pPlane31
+    3300018: pPlane32
+    3300020: pPlane33
+    3300022: pPlane34
+    3300024: pPlane35
+    3300026: pPlane36
+    3300028: pPlane41
+    3300030: pPlane43
+    3300032: pPlane45
+    3300034: pSphere1
+    3300036: pSphere2
+    4300000: pSphere1
+    4300002: polySurface3
+    4300004: pSphere2
+    4300006: polySurface6
+    4300008: polySurface7
+    4300010: polySurface8
+    4300012: polySurface9
+    4300014: pPlane30
+    4300016: pPlane31
+    4300018: pPlane32
+    4300020: pPlane33
+    4300022: pPlane34
+    4300024: pPlane35
+    4300026: pPlane36
+    4300028: polySurface15
+    4300030: pPlane41
+    4300032: polySurface17
+    4300034: pPlane43
+    4300036: pPlane45
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 200
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
